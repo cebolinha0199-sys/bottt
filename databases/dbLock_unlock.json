@@ -1,0 +1,14 @@
+{
+    "channels": [
+        {
+            "id": "teste",
+            "guildId": "1384597012145639474",
+            "channelId": "1384597014133735529",
+            "lockTime": "15:47",
+            "unlockTime": "15:48",
+            "clearMessages": false,
+            "lastLockMessageId": "1385692683019751516",
+            "lastUnlockMessageId": "1385692933625352375"
+        }
+    ]
+}

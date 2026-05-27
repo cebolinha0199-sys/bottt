@@ -1,0 +1,80 @@
+{
+  "giveaways": [
+    {
+      "prize": "sorteio",
+      "description": "participe",
+      "embedImage": null,
+      "embedThumbnail": null,
+      "embedColor": "#29a6fe",
+      "guildId": "1384597012145639474",
+      "hostedBy": "1297398412093690010",
+      "participants": [
+        "1297398412093690010"
+      ],
+      "winners": [
+        "1297398412093690010"
+      ],
+      "ended": true,
+      "allowedRoles": [],
+      "deniedRoles": [],
+      "winnerRole": null,
+      "startAt": 1750185086037,
+      "endAt": 1750185146037,
+      "reactionEmoji": "🎁",
+      "channelId": "1384597014133735529",
+      "winnerCount": 1,
+      "messageId": "1384601517675515928"
+    },
+    {
+      "prize": "Sorteio",
+      "description": "Come o boga do professor",
+      "embedImage": null,
+      "embedThumbnail": null,
+      "embedColor": "#29a6fe",
+      "guildId": "1384597012145639474",
+      "hostedBy": "1051864344436154408",
+      "participants": [
+        "1051864344436154408",
+        "1297398412093690010"
+      ],
+      "winners": [
+        "1297398412093690010"
+      ],
+      "ended": true,
+      "allowedRoles": [],
+      "deniedRoles": [],
+      "winnerRole": null,
+      "startAt": 1750285808033,
+      "endAt": 1750285868033,
+      "reactionEmoji": "😏",
+      "channelId": "1384597014133735529",
+      "winnerCount": 1,
+      "messageId": "1385023993446273024"
+    },
+    {
+      "prize": "Sjshs",
+      "description": "Sbsbdb",
+      "embedImage": null,
+      "embedThumbnail": null,
+      "embedColor": "#29a6fe",
+      "guildId": "1384597012145639474",
+      "hostedBy": "1051864344436154408",
+      "participants": [
+        "1051864344436154408"
+      ],
+      "winners": [
+        "1051864344436154408"
+      ],
+      "ended": true,
+      "allowedRoles": [],
+      "deniedRoles": [],
+      "winnerRole": null,
+      "startAt": 1750290571802,
+      "endAt": 1750290631802,
+      "reactionEmoji": "🔊",
+      "channelId": "1384597014133735529",
+      "winnerCount": 1,
+      "messageId": "1385043920307884032"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+    "vendas": {
+        "channels": {
+            "channelLogsPrivId": "1384979270425772114",
+            "channelLogsPublicId": "1384979327338152036",
+            "categoryCartsId": "1384979378013736980",
+            "avaliar": "1384605985292947606"
+        },
+        "roles": {
+            "roleCustomerId": "1384979574928183306",
+            "roleStaffID": "1384979643076968519"
+        },
+        "images": {
+            "bannerUrl": "none",
+            "thumbUrl": "none"
+        },
+        "embeds": {
+            "color": "none"
+        },
+        "payments": {
+            "mpAcessToken": "none",
+            "paymentsOptions": {
+                "pix": false,
+                "balance": false,
+                "site": false,
+                "semiAuto": true
+            },
+            "lenguage": "BRL",
+            "NubankType": "nubank"
+        },
+        "balance": {
+            "bonusDeposit": 0,
+            "minimumDeposit": 0
+        },
+        "semiAuto": {
+            "pix": {
+                "key": "suachavepix@gmail.com",
+                "keyType": "Email"
+            },
+            "qrCode": "none"
+        },
+        "termsPurchase": "Seus termos",
+        "buttonDuvidas": "none",
+        "newSales": true,
+        "owner": "none",
+        "reacoes": {
+            "automaticas": []
+        }
+    },
+    "ticket": {
+        "pagamentos": {
+            "acess_token": "",
+            "tempo": 10,
+            "sistema": "OFF",
+            "blockbank": []
+        },
+        "sugest": {
+            "certo": "✅",
+            "errado": "❌",
+            "sistema": "OFF",
+            "channel": "1384597014133735529"
+        },
+        "ticket": {
+            "cargo_staff": [
+                "1384605888802979840"
+            ],
+            "canal_logs": "1384605826496462950",
+            "canal_avalia": "1384605985292947606",
+            "categoria": "1384597014133735528"
+        },
+        "painel": {
+            "desc": ":bell: | Olá {user}! **Seja bem-vindo(a) ao seu ticket.**\n\n:zap: | Os **TICKETS** são totalmente privados, apenas membros da STAFF possuem acesso a este canal.\n\n:rotating_light: | Evite **MARCAÇÕES.** Aguarde até que um **STAFF** te atenda.\n\n:man_police_officer: | Staff que assumiu o ticket {assumido}\n:envelope_with_arrow: | Motivo do Ticket: __**{motivo}**__\n\n⏰ | Horário de abertura: {horario1} ({horario2})",
+            "button": {
+                "sair": "<:1166960884220960788:1239447539489443894>",
+                "membro": "<:1166960974604017694:1225478267990048928>",
+                "staff": "<:suportee:1239447771858079795>",
+                "assumir": "<:coroa:1239447680292229120>",
+                "finalizar": "<:1166960963988230195:1239447625737048154>"
+            }
+        },
+        "color": "#460580"
+    },
+    "dbRedefine": true,
+    "acoesautomaticas": {
+        "mensagens": []
+    },
+    "teste-apenas um teste--15-1384597014133735529": {
+        "id": "1384605673815539875",
+        "channel": "1384597014133735529"
+    },
+    "buttonDuvidas": "1384597014133735529"
+}

@@ -1,0 +1,53 @@
+{
+  "antiRaid": {
+    "enabled": false,
+    "channelProtection": {
+      "enabled": false,
+      "action": "removePermissions"
+    },
+    "roleProtection": {
+      "enabled": false,
+      "action": "removePermissions"
+    },
+    "banProtection": {
+      "enabled": false,
+      "action": "ban",
+      "threshold": 5
+    },
+    "kickProtection": {
+      "enabled": false,
+      "action": "removePermissions",
+      "threshold": 5
+    }
+  },
+  "logs": {
+    "enabled": false,
+    "securityChannel": null,
+    "moderationChannel": null,
+    "serverChannel": null
+  },
+  "autoMod": {
+    "enabled": false,
+    "spamDetection": {
+      "enabled": false,
+      "messageThreshold": 5,
+      "timeThreshold": 5,
+      "action": "delete",
+      "duration": 10,
+      "whitelistedRoles": []
+    },
+    "linkFilter": {
+      "enabled": false,
+      "whitelistedDomains": [],
+      "whitelistedRoles": [],
+      "action": "delete"
+    },
+    "mentionFilter": {
+      "enabled": false,
+      "threshold": 5,
+      "action": "timeout",
+      "duration": 10,
+      "whitelistedRoles": []
+    }
+  }
+}

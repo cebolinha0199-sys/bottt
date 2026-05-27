@@ -1,0 +1,27 @@
+{
+    "teste": {
+        "idpainel": "teste",
+        "tipo": "button",
+        "desc": "Clique no botão de abrir ticket para obter ajuda de um **STAFF**",
+        "title": "Video | Suporte",
+        "idmsg": "1467947025432580097",
+        "idcanal": "1453443485490348225",
+        "modal": {
+            "assunto": "ON",
+            "desc": "OFF",
+            "finaliza": "ON"
+        },
+        "buttons": [
+            {
+                "id": 1,
+                "style": 1,
+                "text": "Abrir Ticket",
+                "emoji": "🎫",
+                "msg": {
+                    "mensagem": "",
+                    "sistema": "ON"
+                }
+            }
+        ]
+    }
+}
